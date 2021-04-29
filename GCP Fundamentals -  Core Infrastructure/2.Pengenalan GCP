@@ -1,0 +1,25 @@
+## **Pengenalan GCP**
+GCP menawarkan banyak cara untuk berhemat. Google merupakan penyedia cloud
+besar pertama yang dibangun daripada membulatkan ke
+satuan berdasarkan satuan waktu yang lebih besar untuk mesin
+virtualnya sebagai penawaran layanan. Hal ini mungkin terdengar sepele, namun biaya pembulatan
+dapat bertambah bagi pelanggan yang membuat dan
+menjalankan banyak mesin virtual. Penagihan per detik ditawarkan
+untuk penggunaan mesin virtual melalui mesin komputer dan
+juga untuk beberapa layanan lainnya, yang juga akan kita
+bahas dalam kursus ini, Kubernetes Engine yang menjadi
+infrastruktur container sebagai layanan, proses data cloud yang menjadi sistem
+big open source Hadoop sebagai layanan, dan lingkungan fleksibel app engine yang menjadi platform sebagai layanan. Mesin komputer otomatis menawarkan
+diskon untuk penggunaan berkelanjutan, yaitu diskon otomatis yang
+Anda dapatkan karena menjalankan mesin virtual dalam jumlah
+yang besar di bulanan penagihan. Saat menjalankan instance
+lebih dari 25 persen dalam sebulan, mesin komputer
+otomatis memberi Anda diskon untuk setiap
+menit tambahan Anda menggunakannya. Berikut cara lain mesin
+komputer menghemat biaya. Nantinya dalam kursus ini,
+Anda akan mempelajari cara mengonfigurasi mesin virtual. Antara lain, Anda akan menentukan berapa banyak memori dan CPU
+virtual yang harus mereka miliki. Normalnya, Anda memilih jenis mesin
+virtual dari kumpulan nilai standar ini, namun mesin komputer juga menawarkan tipe mesin virtual
+kustom sehingga Anda bisa menyempurnakan ukuran
+mesin virtual yang digunakan. Dengan begitu, Anda bisa menyesuaikan
+penetapan harga untuk beban kerja.
